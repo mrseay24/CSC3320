@@ -1,0 +1,25 @@
+//Sidney Seay
+//9-8-15
+//CSC3320
+
+
+
+cat file-concatenate files
+
+cd-change directory
+
+cd ..-change directory to one level up
+
+chmod-change mode
+ls-list files in the current directory
+
+ls-list files in the current directory
+ls -l-list files in the current directory in long format
+
+man command-shows the manual entry for the command
+
+more file-shows the contents of file to the screen
+
+pwd-print working directory
+
+ssh-runs secure shell

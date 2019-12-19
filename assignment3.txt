@@ -1,0 +1,10 @@
+//Sidney Seay
+//9-24-15
+//CSC 3320
+//Assignment 3
+
+1 g sub ( “0”, “zero”) ( “1”, “One”) ( “2”, “two”) ( “3”, “three”) ( “4”, “four”) ( “5”, “five”) ( “6”, “six”) ( “7”, “seven”) ( “8”, “eight”)(“9”,”nine”)
+
+2 g sub ( “zero”,”0”) ( “one”,1) (“two”,”0”) ( “three”, “3”) ( “four”, “4”) ( “five”, “5”) ( “six”, “6”) ( “seven”, “7”) ( “eight”, “8”)(“nine”,”9”)
+
+3 g sub ( “zero”,”null”) ( “one”,i) (“two”,”ii”) ( “three”, “iii”) ( “four”, “iv) ( “five”, “v”) ( “six”, “vi”) ( “seven”, “vii”) ( “eight”, “viii”)(“nine”,”ix”)
